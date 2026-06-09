@@ -136,6 +136,7 @@ const Register = () => {
               <MenuItem value={'Select User'} disabled>Select User</MenuItem>
               <MenuItem value={'Renter'}>Renter</MenuItem>
               <MenuItem value={"Owner"}>Owner</MenuItem>
+              <MenuItem value={"Admin"}>Admin</MenuItem>
             </Select>
             <Box mt={2}>
               <Button
