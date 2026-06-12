@@ -14,7 +14,7 @@ A comprehensive, user-friendly MERN stack application designed to streamline the
 ### 2. Open in VS Code
 - Open **VS Code**.
 - Go to `File` -> `Open Folder...` and select the `house-rent` directory:
-  `C:\Users\navya\.gemini\antigravity\scratch\house-rent`
+  `C:\Users\navya\house-rent`
 
 ### 3. Environment Variables Config (.env)
 We have already created a `.env` file inside the `backend` folder. It looks like this:
@@ -64,7 +64,7 @@ You need to run both the backend and frontend servers simultaneously.
 ### 2. VS Code లో ఓపెన్ చేయండి
 - **VS Code** ఓపెన్ చేయండి.
 - `File` -> `Open Folder...` క్లిక్ చేసి `house-rent` ఫోల్డర్‌ను సెలెక్ట్ చేయండి:
-  `C:\Users\navya\.gemini\antigravity\scratch\house-rent`
+  `C:\Users\navya\house-rent`
 
 ### 3. కన్ఫిగరేషన్ ఫైల్ (.env)
 మేము ఇప్పటికే `backend` ఫోల్డర్ లోపల ఒక `.env` ఫైల్‌ను క్రియేట్ చేసాము. అందులో ఈ క్రింది విధంగా ఉంటుంది:
